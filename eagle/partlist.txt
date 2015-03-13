@@ -1,0 +1,55 @@
+Partlist
+
+Exported from luchador.brd at 3/13/15 4:44 AM
+
+EAGLE Version 7.2.0 Copyright (c) 1988-2014 CadSoft
+
+Assembly variant: 
+
+Part         Value          Package     Library             Position (inch)       Orientation
+
+ARDUINO_JP1                 1X12        SparkFun            (3.55 1.3)            MR0
+ARDUINO_JP2                 1X12        SparkFun            (2.45 1.9)            MR180
+BREAKOUT_JP1                1X12        SparkFun            (3.55 1.175)          R180
+BREAKOUT_JP2                1X12        SparkFun            (2.45 2.025)          R0
+C1           0.01uf         AXIAL-5MM   SparkFun-Capacitors (1.6 1.6)             R90
+D1           1N4004         DO41-10     diode               (2.25 3)              R270
+D2           1N4004         DO41-10     diode               (2.25 0.2)            R90
+ESP-01       M04X2          2X4         SparkFun            (3.85 0.85)           R180
+I2C                         1X02        SparkFun            (3.105 1.415)         MR180
+I2C_BOTTOM                  1X04        SparkFun-Connectors (1.8 1.75)            R270
+I2C_LEFT                    1X04        SparkFun-Connectors (3.4 2.8)             R270
+I2C_RIGHT                   1X04        SparkFun-Connectors (3.4 0.7)             R270
+JP1                         1X08        SparkFun-Connectors (0.5 1.95)            R270
+JP2                         1X08        SparkFun-Connectors (0.1 1.25)            R90
+JP3                         1X08        SparkFun-Connectors (0.6 1.95)            R270
+JP4                         1X08        SparkFun-Connectors (0 1.25)              R90
+NRF24L01     M04X2          2X4         SparkFun            (3.85 2.35)           R180
+POWER1                      1X02        SparkFun            (2.2 2.65)            R0
+POWER2                      1X02        SparkFun            (2.2 0.55)            R0
+R1           1.5k           AXIAL-0.3   SparkFun-Resistors  (1.3 2.2)             R180
+R2           1.5k           AXIAL-0.3   SparkFun-Resistors  (1.3 2.05)            R0
+R3           1.5k           AXIAL-0.3   SparkFun-Resistors  (1.3 1.9)             R180
+R4           390            AXIAL-0.3   SparkFun-Resistors  (1.3 1.75)            R0
+R5           390            AXIAL-0.3   SparkFun-Resistors  (1.3 1.6)             R180
+R6           390            AXIAL-0.3   SparkFun-Resistors  (1.3 1.45)            R0
+R7           390            AXIAL-0.3   SparkFun-Resistors  (1.3 1.3)             R180
+R8           4.7k           AXIAL-0.3   SparkFun-Resistors  (1.3 1.15)            R0
+R9           0              AXIAL-0.3   SparkFun-Resistors  (1.3 1)               R180
+R10          0              AXIAL-0.3   SparkFun-Resistors  (1 1.6)               R90
+S1                          TACTILE-PTH SparkFun            (1.85 3.1)            R0
+S2                          TACTILE-PTH SparkFun            (1.85 2.75)           R0
+S3                          TACTILE-PTH SparkFun            (1.85 0.45)           R180
+S4                          TACTILE-PTH SparkFun            (1.85 0.1)            R180
+S5                          TACTILE-PTH SparkFun            (1.45 3.1)            R0
+S6                          TACTILE-PTH SparkFun            (1.45 2.75)           R0
+S7                          TACTILE-PTH SparkFun            (1.45 0.45)           R180
+S8                          TACTILE-PTH SparkFun            (1.45 0.1)            R180
+S9                          TACTILE-PTH SparkFun            (1.05 3.1)            R0
+S10                         TACTILE-PTH SparkFun            (1.05 2.75)           R0
+S11                         TACTILE-PTH SparkFun            (1.05 0.45)           R180
+S12                         TACTILE-PTH SparkFun            (1.05 0.1)            R180
+S13                         TACTILE-PTH SparkFun            (0.65 2.75)           R0
+S14                         TACTILE-PTH SparkFun            (0.65 0.45)           R180
+S15                         TACTILE-PTH SparkFun            (0.25 2.4)            R0
+S16                         TACTILE-PTH SparkFun            (0.25 0.8)            R180
